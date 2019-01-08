@@ -1,6 +1,6 @@
 #!/bin/bash
 #set -x #echo on
-codePoolCustomModulePath='/home/dasitha/Dasitha/workspace/dockers/m2stack2.3.0/m2stack-eagle/codepool/app/code/Netstarter/Search';
+codePoolCustomModulePath='/home/../M2-Module-Path';
 modifiedCoreFileListPath='magento22to23.txt';
 echo '--------------------------------------------------------'
 echo 'CORE modified classes : "$modifiedCoreFileListPath"'
