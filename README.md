@@ -13,8 +13,7 @@ https://devdocs.magento.com/guides/v2.3/release-notes/backward-incompatible-chan
 
 3) Execute the shell script in terminal 
 
-Execute M2PHPCoreUpgradeChecker.sh
-sh M2PHPCoreUpgradeChecker.sh
+# sh M2PHPCoreUpgradeChecker.sh
 
 4) Upgraded classes or interfaces will show in a RED color if available in your custom module 
 
